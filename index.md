@@ -7,3 +7,8 @@
   Image of a dark woman with an afro and sunglasses looking at the sky.
 </p>
 ```
+
+- [x] Create a header
+- [x] Add an image
+- [x] Add descriptive text
+- [ ] Create a task list
