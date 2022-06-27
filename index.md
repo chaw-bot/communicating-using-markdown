@@ -1,6 +1,5 @@
-# File Header
-## Second Header
-### Third Header
-#### Fourth Header
-##### Fifth Header
-###### Sixth Header
+# Afronaut
+
+![Image of a dark woman with an afro and sunglasses looking at the sky](https://user-images.githubusercontent.com/77142475/175902545-2cd2a431-829a-4602-aa4a-4ac072949c88.png)
+
+
